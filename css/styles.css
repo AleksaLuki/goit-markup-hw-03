@@ -181,7 +181,7 @@ ul {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
 }
-.list {
+.list-our {
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -293,6 +293,16 @@ ul {
 }
 /*FOOTER*/
 
+.logo-footer {
+  display: block;
+  text-decoration: none;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: calc(31 / 26);
+  letter-spacing: 0.03em;
+}
 .page-footer {
   background: #2f303a;
   padding: 60px 0;
